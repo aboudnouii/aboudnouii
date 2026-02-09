@@ -25,12 +25,7 @@ I LOVE RACCOONS 🦝
 
 ### 📈 &nbsp;GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/aboudnouii">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aboudnouii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboudnouii&layout=compact&langs_count=8&theme=algolia&hide=procfile"/>
-  </a>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/aboudnouii">
