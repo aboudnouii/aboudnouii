@@ -33,14 +33,6 @@ I LOVE RACCOONS 🦝
   </a>
 </p>
 
-### 🌟 &nbsp;Featured Projects
-
-Here are some of my notable repositories:
-
-- **[Project 1](#)** &nbsp;— A cool project I built
-- **[Project 2](#)** &nbsp;— Another awesome project  
-- **[Project 3](#)** &nbsp;— Something interesting I made
-- **[Project 4](#)** &nbsp;— My latest creation
 
 ### 📫 &nbsp;Connect With Me
 
